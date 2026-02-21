@@ -28,6 +28,7 @@ I used a **Model-View** separation to keep the code organized:
 3. Run `Main.java` to launch the game.
 
 ## 📈 Next Steps
-- [ ] Add path-checking (so Rooks can't jump over pieces).
-- [ ] Add the Pawn, Bishop, Queen, and King.
-- [ ] Implement Check/Checkmate detection.
+- [ ] Web Front End
+- [ ] Game Intelligence-- Simple AI.
+- [ ] Add an Undo/Redo feature
+- [ ] Prevent sliding pieces (Rook/Bishop) from jumping over others.
